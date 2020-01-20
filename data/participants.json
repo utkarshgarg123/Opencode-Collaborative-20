@@ -1,4 +1,4 @@
-[
+﻿[
    {
       "name":"Kumar Anip",
       "imageurl":"",
@@ -3211,5 +3211,25 @@
       "facebook":"",
       "github":"https://github.com/deepakgupta124",
       "twitter":""
+   },
+  {
+      "name":"Deepak gupta",
+      "imageurl":"",
+      "about":"coder",
+      "college":"IIITA",
+      "facebook":"",
+      "github":"https://github.com/deepakgupta124",
+      "twitter":""
+   },
+   {
+      "name":"Utkarsh Garg",
+      "imageurl":"https://avatars1.githubusercontent.com/u/54159419",
+      "about":"",
+      "college":"IIIT Allahabad",
+      "facebook":"https://www.facebook.com/utkarsh.garg.961",
+      "github":"",
+      "twitter":"",
+      "referral":""
    }
+  
 ]
